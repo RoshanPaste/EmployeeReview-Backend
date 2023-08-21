@@ -23,6 +23,3 @@ Then Click On Submit Button
 
 ## For Admin :
 Admin can not register so Email Id for Admin : "admin@gmail.com" and Password : "admin" 
-## Take A look :
-This Project is hosted live at [Link](https://employeereview.herokuapp.com/)
-Git Hub [Link](https://github.com/developeramit14jan/EmployeeReview)
