@@ -11,12 +11,12 @@
     "type": "git",
     "url": "git+https://github.com/developeramit14jan/EmployeeReview.git"
   },
-  "author": "Amit Kumar",
+  "author": "Roshan Paste",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/developeramit14jan/EmployeeReview/issues"
+    "url": "https://github.com/RoshanPaste/EmployeeReview-Backend/issues"
   },
-  "homepage": "https://github.com/developeramit14jan/EmployeeReview#readme",
+  "homepage": "https://github.com/RoshanPaste/EmployeeReview-Backend",
   "dependencies": {
     "connect-flash": "^0.1.1",
     "connect-mongo": "^4.6.0",
